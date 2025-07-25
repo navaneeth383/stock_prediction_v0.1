@@ -1,3 +1,2 @@
 [global]
-# Set the Python version
-pythonVersion = "3.10" # Or "3.9" or "3.11"
+pythonVersion = "3.10"
