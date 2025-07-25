@@ -1,12 +1,3 @@
-import yfinance as yf
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense, Dropout
-from sklearn.preprocessing import MinMaxScaler
-import streamlit as st
-from datetime import date
 
 st.set_page_config(page_title='LSTM Stock Predictor', page_icon='📈', layout='centered')
 
