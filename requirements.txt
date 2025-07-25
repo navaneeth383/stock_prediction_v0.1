@@ -2,5 +2,6 @@ yfinance
 numpy
 pandas
 matplotlib
-tensorflow
+tensorflow-cpu  # Using tensorflow-cpu for better compatibility on cloud platforms
 scikit-learn
+streamlit
